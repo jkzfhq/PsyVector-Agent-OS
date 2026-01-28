@@ -1,0 +1,4 @@
+pyyaml
+langchain
+langgraph
+langchain_openai
